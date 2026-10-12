@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="350" viewBox="0 0 1200 350" role="img" aria-label="Independent tools, clear thinking">
+<rect width="1200" height="350" rx="12" fill="#122036"/><path d="M750 0h450v350H620z" fill="#193250"/><circle cx="1110" cy="30" r="120" fill="#204678"/>
+<text x="64" y="76" fill="#8bb8ff" font-family="Arial,sans-serif" font-size="15" letter-spacing="4">HONGGEGE957-COLLAB / OPEN SOURCE</text>
+<text x="60" y="153" fill="#fff" font-family="Arial,sans-serif" font-size="55" font-weight="700">Independent tools.</text>
+<text x="60" y="215" fill="#fff" font-family="Arial,sans-serif" font-size="55" font-weight="700">Clear thinking.</text>
+<text x="64" y="279" fill="#c0d4ef" font-family="Arial,sans-serif" font-size="19">Working code · Useful interfaces · 中文 / English</text>
+<g font-family="Arial,sans-serif" font-size="21" font-weight="700"><rect x="790" y="80" width="302" height="50" rx="8" fill="#1677ff"/><text x="812" y="113" fill="#fff">{ }  JSON Lens</text><rect x="790" y="149" width="302" height="50" rx="8" fill="#fff"/><text x="812" y="182" fill="#173457">↗  Flow Atlas</text><rect x="790" y="218" width="302" height="50" rx="8" fill="#243f63" stroke="#4873a6"/><text x="812" y="251" fill="#d5e7ff">≈  Steady Kit</text></g></svg>
