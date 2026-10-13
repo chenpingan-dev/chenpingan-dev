@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="220" viewBox="0 0 480 220" role="img" aria-labelledby="title desc">
+  <title id="title">Trace Parcel — request reports</title>
+  <desc id="desc">Illustration of selected requests becoming a report with a redacted field</desc>
+  <g font-family="'Microsoft YaHei', 'Segoe UI', Arial, sans-serif">
+    <rect width="480" height="220" rx="16" fill="#f1edff"/>
+    <rect x="33" y="41" width="228" height="138" rx="10" fill="#fff" stroke="#cbbfe5"/>
+    <path d="M33 77h228" stroke="#e1d9ef"/>
+    <text x="51" y="65" font-size="16" font-weight="600" fill="#584183">REQUESTS</text>
+    <rect x="48" y="92" width="18" height="18" rx="4" fill="#7554bc"/>
+    <path d="m52 101 3 3 7-7" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round"/>
+    <path d="M80 101h86m13 0h62" stroke="#b1a0cf" stroke-width="4" stroke-linecap="round"/>
+    <rect x="48" y="122" width="18" height="18" rx="4" fill="#7554bc"/>
+    <path d="m52 131 3 3 7-7" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round"/>
+    <path d="M80 131h58m13 0h90" stroke="#b1a0cf" stroke-width="4" stroke-linecap="round"/>
+    <path d="M50 158h191" stroke="#e1d9ef" stroke-width="4" stroke-linecap="round"/>
+    <path d="M273 111h24m-8-8 8 8-8 8" fill="none" stroke="#795ab6" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M318 23h90l39 40v133H318V23Z" fill="#fff" stroke="#c0b1de" stroke-width="1.5" stroke-linejoin="round"/>
+    <path d="M408 23v40h39" fill="#e3daf4" stroke="#c0b1de" stroke-width="1.5" stroke-linejoin="round"/>
+    <path d="M338 86h51m-51 23h84m-84 18h28m-28 27h84m-84 15h65" stroke="#b7a6d2" stroke-width="4" stroke-linecap="round"/>
+    <rect x="376" y="120" width="46" height="14" rx="3" fill="#7554bc"/>
+  </g>
+</svg>

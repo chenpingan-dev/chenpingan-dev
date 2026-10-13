@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" viewBox="0 0 96 96" role="img" aria-labelledby="title desc">
+  <title id="title">trace-parcel</title>
+  <desc id="desc">Project symbol</desc>
+  <g font-family="'Microsoft YaHei', 'Segoe UI', Arial, sans-serif">
+<rect width="96" height="96" rx="22" fill="#f1edff"/><g transform="translate(20 20) scale(1.75)" color="#7554bc"><path d="M5 7h15l7 7v14H5V7Z" fill="currentColor" opacity=".15"/><path d="M20 7v7h7M11 20h10M11 25h6" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" fill="none"/><path d="M5 28V7h15l7 7v14H5Z" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linejoin="round"/></g>
+  </g>
+</svg>

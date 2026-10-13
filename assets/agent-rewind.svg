@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="220" viewBox="0 0 480 220" role="img" aria-labelledby="title desc">
+  <title id="title">Agent Rewind — session replay</title>
+  <desc id="desc">Illustration of a run timeline with a failed tool call selected</desc>
+  <g font-family="'Microsoft YaHei', 'Segoe UI', Arial, sans-serif">
+    <rect width="480" height="220" rx="16" fill="#fff2ed"/>
+    <rect x="35" y="27" width="410" height="167" rx="12" fill="#fff" stroke="#e4c6bb"/>
+    <path d="M35 65h410" stroke="#e9d9d3"/>
+    <circle cx="57" cy="47" r="4" fill="#e8a98f"/><circle cx="72" cy="47" r="4" fill="#eed1c4"/>
+    <text x="95" y="53" font-size="17" font-weight="600" fill="#552d22">SESSION REPLAY</text>
+    <path d="M66 125h340" stroke="#e8d9d3" stroke-width="3"/>
+    <rect x="64" y="101" width="65" height="48" rx="8" fill="#f4e9e4" stroke="#dbc8bf"/>
+    <path d="m89 113 16 12-16 12v-24Z" fill="#836156"/>
+    <rect x="151" y="101" width="65" height="48" rx="8" fill="#f4e9e4" stroke="#dbc8bf"/>
+    <path d="m173 118 7 7-7 7m12 0h9" fill="none" stroke="#836156" stroke-width="2.5" stroke-linecap="round"/>
+    <rect x="238" y="92" width="78" height="66" rx="10" fill="#c65134"/>
+    <path d="M268 113v13m0 9v1" stroke="#fff" stroke-width="3" stroke-linecap="round"/>
+    <path d="M285 112h14m-14 10h10m-10 10h14" stroke="#fbd4c7" stroke-width="2.5" stroke-linecap="round"/>
+    <rect x="338" y="101" width="65" height="48" rx="8" fill="#f4e9e4" stroke="#dbc8bf"/>
+    <path d="m359 125 8 7 14-15" fill="none" stroke="#836156" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="64" y="169" width="146" height="4" rx="2" fill="#e4c8bb"/><rect x="64" y="169" width="74" height="4" rx="2" fill="#c65134"/>
+    <circle cx="316" cy="171" r="3" fill="#c65134"/><path d="M327 171h76" stroke="#e4c8bb" stroke-width="4" stroke-linecap="round"/>
+  </g>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="220" viewBox="0 0 480 220" role="img" aria-labelledby="title desc">
+  <title id="title">Patch Orbit — Go change review</title>
+  <desc id="desc">Illustration of packages connected by import dependencies</desc>
+  <g font-family="'Microsoft YaHei', 'Segoe UI', Arial, sans-serif">
+    <rect width="480" height="220" rx="16" fill="#eaf3ff"/>
+    <path d="M95 110h70c30 0 20-55 60-55h57m-117 55c30 0 20 55 60 55h57m43-110c22 0 16 55 54 55m-54 55c22 0 16-55 54-55" fill="none" stroke="#85a5d1" stroke-width="2.5"/>
+    <rect x="33" y="79" width="105" height="62" rx="10" fill="#215bc8"/>
+    <path d="M55 100h17m-17 10h32m-32 10h23" stroke="#e7efff" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="115" cy="109" r="5" fill="#bcd2ff"/>
+    <rect x="221" y="24" width="110" height="62" rx="10" fill="#fff" stroke="#91b0dc"/>
+    <rect x="221" y="134" width="110" height="62" rx="10" fill="#fff" stroke="#91b0dc"/>
+    <path d="M241 47h24m-24 13h61m-61 97h24m-24 13h61" stroke="#5377a8" stroke-width="3" stroke-linecap="round"/>
+    <rect x="379" y="79" width="69" height="62" rx="10" fill="#fff0d5" stroke="#cc9846"/>
+    <path d="M398 109h31m-16-15v30" stroke="#a86416" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="178" cy="110" r="6" fill="#eaf3ff" stroke="#6289bd" stroke-width="2"/>
+  </g>
+</svg>

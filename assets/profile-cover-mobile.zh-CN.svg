@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="450" viewBox="0 0 640 450" role="img" aria-labelledby="title desc">
+  <title id="title">回放每次执行 · 追溯每处改动</title>
+  <desc id="desc">Chen Pingan — open-source developer tools</desc>
+  <g font-family="'Microsoft YaHei', 'Segoe UI', Arial, sans-serif">
+    <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#10213b"/><stop offset="1" stop-color="#1c3654"/></linearGradient></defs>
+    <rect width="640" height="450" rx="22" fill="url(#bg)"/>
+    <path d="M430 450C485 275 502 130 640 58M464 450C519 275 536 130 674 58" fill="none" stroke="#496c92" stroke-opacity=".25"/>
+    <rect x="36" y="38" width="4" height="24" rx="2" fill="#70d7cf"/>
+    <text x="52" y="59" fill="#b8d1f1" font-size="25" font-weight="600" letter-spacing="1.6">CHENPINGAN-DEV</text>
+    <text x="36" y="142" fill="#fff" font-size="56" font-weight="700" letter-spacing="-1.2">回放每次执行</text>
+    <text x="36" y="211" fill="#fff" font-size="56" font-weight="700" letter-spacing="-1.2">追溯每处改动</text>
+    <text x="38" y="273" fill="#d3e1f3" font-size="28">AI 编码会话 · Go 代码依赖</text>
+    <text x="38" y="315" fill="#d3e1f3" font-size="28">网络请求报告</text>
+    <path d="M38 349h564" stroke="#56769a" stroke-opacity=".65"/>
+    <g transform="translate(38 371) scale(1.2)" color="#ffb19c"><rect x="2" y="3" width="28" height="26" rx="7" fill="currentColor" opacity=".15"/><path d="m18 10-9 6 9 6V10Z" fill="currentColor"/><path d="M23 10v12" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"/></g>
+    <g transform="translate(101 371) scale(1.2)" color="#83dfd4"><path d="M8 6v14a6 6 0 0 0 6 6h10M8 12h10a6 6 0 0 0 6-6" fill="none" stroke="currentColor" stroke-width="2.5"/><circle cx="8" cy="6" r="4" fill="currentColor"/><circle cx="24" cy="6" r="4" fill="currentColor" opacity=".6"/><circle cx="24" cy="26" r="4" fill="currentColor" opacity=".6"/></g>
+    <g transform="translate(164 371) scale(1.2)" color="#c6b4ff"><path d="M5 7h15l7 7v14H5V7Z" fill="currentColor" opacity=".15"/><path d="M20 7v7h7M11 20h10M11 25h6" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" fill="none"/><path d="M5 28V7h15l7 7v14H5Z" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linejoin="round"/></g>
+    <text x="244" y="398" fill="#c5d9f1" font-size="25">Open source / 中文 &amp; EN</text>
+  </g>
+</svg>
