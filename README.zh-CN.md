@@ -1,38 +1,17 @@
 # 陈平安
 
-用可视化工具看清 AI 编码过程与代码改动
+我在做一些实用的开发者工具，关注 AI 编码会话分析、代码评审与数据可视化
 
 [English](README.md) / [简体中文](README.zh-CN.md)
 
-## [Agent Rewind](https://github.com/chenpingan-dev/agent-rewind)
+## 开源项目
 
-**给 Codex 会话加一个回放键**
+| 项目 | 用途 | 使用入口 |
+| --- | --- | --- |
+| [Agent Rewind](https://github.com/chenpingan-dev/agent-rewind) · Python | 回放 Codex CLI 日志、排查失败调用、对比运行记录 | [打开会话回放](https://chenpingan-dev.github.io/agent-rewind/) |
+| [Patch Orbit](https://github.com/chenpingan-dev/patch-orbit) · Go | 沿反向依赖查看代码改动影响的 Go 包，辅助代码评审 | [查看依赖关系](https://chenpingan-dev.github.io/patch-orbit/) |
+| [JSON Lens](https://github.com/chenpingan-dev/json-lens) · JavaScript | 浏览 JSON 结构、定位字段、比较数据差异 | [打开工作台](https://chenpingan-dev.github.io/json-lens/) |
+| [Flow Atlas](https://github.com/chenpingan-dev/flow-atlas) · JavaScript | 规划任务依赖、分析关键路径、查看执行排期 | [打开规划器](https://chenpingan-dev.github.io/flow-atlas/) |
+| [Task Weaver](https://github.com/chenpingan-dev/task-weaver) · Java | 按依赖执行任务并处理失败传播 | [查看使用指南](https://github.com/chenpingan-dev/task-weaver/blob/main/README.zh-CN.md#运行任务编排) |
 
-回到失败的调用，看输入和结果，找到重复执行的步骤，再和下一次运行对照
-
-[打开会话回放 →](https://chenpingan-dev.github.io/agent-rewind/) · [安装使用](https://github.com/chenpingan-dev/agent-rewind/blob/main/README.zh-CN.md#安装使用) · Python
-
-[![Agent Rewind 会话回放](https://raw.githubusercontent.com/chenpingan-dev/agent-rewind/main/assets/screenshot.zh-CN.png)](https://chenpingan-dev.github.io/agent-rewind/)
-
-## [Patch Orbit](https://github.com/chenpingan-dev/patch-orbit)
-
-**看清一处 Go 改动，连着哪些包**
-
-从 Git 改动出发，沿 import 链查看关联包，每条连线都有文件和行号依据，再把复查清单带进代码评审
-
-[打开依赖地图 →](https://chenpingan-dev.github.io/patch-orbit/) · [下载工具](https://github.com/chenpingan-dev/patch-orbit/releases) · Go
-
-[![Patch Orbit 依赖地图](https://raw.githubusercontent.com/chenpingan-dev/patch-orbit/main/assets/screenshot.zh-CN.png)](https://chenpingan-dev.github.io/patch-orbit/)
-
-两款工具在本地分析，可保存单文件离线报告，在线页面使用明确标注的合成数据，支持中英文切换
-
-<details>
-<summary>其他工具</summary>
-
-- [JSON Lens](https://github.com/chenpingan-dev/json-lens)：浏览 JSON 结构、指针与差异 · [打开工作台](https://chenpingan-dev.github.io/json-lens/)
-- [Flow Atlas](https://github.com/chenpingan-dev/flow-atlas)：规划任务依赖、关键路径与排期 · [打开规划器](https://chenpingan-dev.github.io/flow-atlas/)
-- [Task Weaver](https://github.com/chenpingan-dev/task-weaver)：按依赖执行 Java 任务并处理失败传播 · [运行任务编排](https://github.com/chenpingan-dev/task-weaver#run-a-workflow)
-
-</details>
-
-个人独立项目 · MIT · AI 辅助开发
+个人独立项目 · AI 辅助开发
