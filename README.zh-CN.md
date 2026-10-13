@@ -8,6 +8,7 @@
 
 | 项目 | 用途 | 使用入口 |
 | --- | --- | --- |
+| [Trace Parcel](https://github.com/chenpingan-dev/trace-parcel) · TypeScript | 筛选抓包请求、处理敏感内容、导出问题报告 | [整理问题报告](https://chenpingan-dev.github.io/trace-parcel/) |
 | [Agent Rewind](https://github.com/chenpingan-dev/agent-rewind) · Python | 回放 Codex CLI 日志、排查失败调用、对比运行记录 | [打开会话回放](https://chenpingan-dev.github.io/agent-rewind/) |
 | [Patch Orbit](https://github.com/chenpingan-dev/patch-orbit) · Go | 沿反向依赖查看代码改动影响的 Go 包，辅助代码评审 | [查看依赖关系](https://chenpingan-dev.github.io/patch-orbit/) |
 | [JSON Lens](https://github.com/chenpingan-dev/json-lens) · JavaScript | 浏览 JSON 结构、定位字段、比较数据差异 | [打开工作台](https://chenpingan-dev.github.io/json-lens/) |
